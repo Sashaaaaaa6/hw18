@@ -1,0 +1,142 @@
+.container {
+  width: 1230px;
+  margin: 0 auto;
+  padding: 0 15 px;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+}
+.header-li {
+  margin-right: 80px;
+}
+.body {
+  font-family: "Courier New", Courier, monospace;
+}
+.header-a {
+  margin-right: 80px;
+}
+.main-h1 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.button {
+  background-color: blue;
+  display: block;
+  margin-right: 1000px;
+}
+.main-ul {
+  padding-top: 100px;
+  display: flex;
+  list-style: none;
+}
+.aaa::before {
+  content: "";
+  display: block;
+  width: 270px;
+  height: 120px;
+  background-image: url("./Group1.png");
+}
+.bbb::before {
+  content: "";
+  display: block;
+  width: 270px;
+  height: 120px;
+  background-image: url("./Group2.png");
+}
+.ccc::before {
+  content: "";
+  display: block;
+  width: 270px;
+  height: 120px;
+  background-image: url("./Group3.png");
+}
+.ddd::before {
+  content: "";
+  display: block;
+  width: 270px;
+  height: 120px;
+  background-image: url("./Group4.png");
+}
+.work-ul {
+  display: flex;
+  list-style: none;
+}
+.h2 {
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 30px;
+}
+.work-li {
+  padding-right: 50px;
+}
+.box1 {
+  /* position: absolute; */
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1208px;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.box2 {
+  /* position: absolute; */
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1208px;
+  -webkit-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.box3 {
+  /* position: absolute; */
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1208px;
+  -webkit-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.team {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 90px;
+}
+.team-ul {
+  display: flex;
+  list-style: none;
+}
+.team-li {
+  padding-right: 30px;
+}
+.pp {
+  -webkit-box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.footer {
+  padding-top: 50px;
+}
+.section1 {
+  width: 1600px;
+  height: 600px;
+  content: "";
+  background-image: url("./Img\(18\).webp");
+}
+.overlay {
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+  background: rgba(47, 48, 58, 0.4);
+}
+.header {
+  background-color: white;
+}
