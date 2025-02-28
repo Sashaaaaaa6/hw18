@@ -121,7 +121,7 @@
   box-shadow: 2px 5px 5px 0px rgba(0, 0, 0, 0.75);
 }
 .footer {
-  padding-top: 50px;
+  padding-top: 100px;
 }
 .section1 {
   width: 1600px;
@@ -139,4 +139,7 @@
 }
 .header {
   background-color: white;
+}
+.footer {
+  background-color: darkslategray;
 }
